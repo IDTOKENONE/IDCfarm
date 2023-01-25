@@ -73,6 +73,6 @@
     "typescript": "~4.6.4"
   },
   "browser": {
-    "crypto": false
+    "crypto": true
   }
 }
